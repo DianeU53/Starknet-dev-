@@ -10,9 +10,8 @@ StarkWare 和 Starknet 基金会为项目发展周期的每个阶段推出了不
 
 ---
 
----
-
 🌟 **Starknet 春季 DeFi 激励计划** 🌟 
+
 
 由 Starknet 基金会与 OpenBlock Labs 合作推出 
 
@@ -39,6 +38,7 @@ https://mirror.xyz/starknet-zh.eth/IQlxX8QzjXXXa6V1XqeIHP-lHAztNLFJ03YvspYEAl0
 ---
 
 **🌟 Starknet 游戏助力试点计划 🌟** 
+
 
 多达二十款游戏的评选，每款游戏最多可获得数百万美元的资助
 

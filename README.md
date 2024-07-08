@@ -167,11 +167,3 @@ https://mirror.xyz/starknet-zh.eth/1M9aE2M3vs-c-Djy7O-3L3HSS0KCxMOzWKcLEDWuht8
 ---
 
 以上总结了 Starknet 生态中的资助项目
-
-本指南仅供研究、交流之用，不做投资建议💡
-
-「Starknet 中文社区」亦不承担任何明示或默示保证责任☘️
-
-觉得有用的小伙伴请点赞、转发 💗 
-
-让更多人看到 🙌
